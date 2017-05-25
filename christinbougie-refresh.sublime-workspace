@@ -1,0 +1,1434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font--headings"
+			],
+			[
+				"wlbRel",
+				"wlbRelType"
+			],
+			[
+				"this",
+				"thisYear"
+			],
+			[
+				"cart",
+				"cartItemProduct"
+			],
+			[
+				"use",
+				"user-cart-display"
+			],
+			[
+				"bidH",
+				"bidHistoryTable"
+			],
+			[
+				"get",
+				"getBidHistory"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"tal",
+				"ta:l\ttext-align:left"
+			],
+			[
+				"order",
+				"orderitemview"
+			],
+			[
+				"auctionB",
+				"auctionBinList"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"u",
+				"ubid-blue"
+			],
+			[
+				"font-",
+				"font-size-small"
+			],
+			[
+				"pa",
+				"padding-large-vertical"
+			],
+			[
+				"body",
+				"body-isZoomOpen"
+			],
+			[
+				"pos",
+				"positionX"
+			],
+			[
+				"grou",
+				"ground"
+			],
+			[
+				"velo",
+				"velocityY"
+			],
+			[
+				"ma",
+				"matchArray"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"oper",
+				"operor"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"curr",
+				"currentSlide"
+			],
+			[
+				"resize",
+				"resizeFlexsliderVideos"
+			],
+			[
+				"aspect",
+				"aspectRatio"
+			],
+			[
+				"h",
+				"h:a\theight:auto"
+			],
+			[
+				"w",
+				"w:a\twidth:auto"
+			],
+			[
+				"resiz",
+				"resizeflexVideos"
+			],
+			[
+				"aspe",
+				"aspectRatio"
+			],
+			[
+				"new-",
+				"new-blue"
+			],
+			[
+				"new",
+				"new-mid-gray"
+			],
+			[
+				"da",
+				"dark-text-color"
+			],
+			[
+				"concer",
+				"concert__title"
+			],
+			[
+				"media",
+				"media"
+			],
+			[
+				"bo",
+				"border-color-light"
+			],
+			[
+				"fle",
+				"flex-basis"
+			],
+			[
+				"base",
+				"base-font-size"
+			],
+			[
+				"med",
+				"media-query"
+			],
+			[
+				"wa",
+				"w:a\twidth:auto"
+			],
+			[
+				"small-",
+				"small-size"
+			],
+			[
+				"me",
+				"media-query"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.scss",
+			"settings":
+			{
+				"buffer_size": 29624,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 3735,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "cloa",
+		"selected_items":
+		[
+			[
+				"cloa",
+				"File: Close All"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"syntma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"mat",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"closa",
+				"File: Close All"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"reim",
+				"Package Control: Remove Repository"
+			],
+			[
+				"h",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"re",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dafydd/dev/christinebougie_com/public/wp-content/themes/christinebougie-refresh",
+		"/Users/dafydd/dev/christinebougie_com/public/wp-content/themes/christinebougie-refresh/img"
+	],
+	"file_history":
+	[
+		"/Users/dafydd/dev/christinebougie_com/public/wp-content/themes/christinebougie-refresh/header.php",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/macros/watchlistButton.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/macros/_all-macros.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/index.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/partials/index/index__featured-items.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/allProduct.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/partials/listings/nothingToSee.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/allAuction.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/partials/listings/auctionListItem.inc",
+		"/Users/dafydd/dev/is/static/site1101342/css/_vars.scss",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/productDisplay.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/global/include/URLMap.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/global/include/globals.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/macros/dlist.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/partials/listings/productListItem.inc",
+		"/Users/dafydd/dev/is/static/site1101342/css/partials/_prd.scss",
+		"/Users/dafydd/dev/is/static/site1101342/css/partials/_item-list.scss",
+		"/Users/dafydd/dev/is/static/site1101342/css/vendor/fontawesome/_variables.scss",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/showerror.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/macros/watchlist-button.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/fr_CA/include/auctions/auctionListItem.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/global/templates/global_head.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/updateUserCC.vm",
+		"/Users/dafydd/dev/is/static/site1101342/js/onload.js",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/email/storepurchase-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/allAuctionAPIResp.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/auctions/orderitemview.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showUserOrderHistory.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showCheckoutStep1.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showCheckoutStep1MultiPage.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/auctionDisplay.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/auctions/auction_bidhistory.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/orderDisplay.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/checkout/shoppingcart_item.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/email/shippingnotif-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showCheckoutStep3.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showCheckoutStep2.vm",
+		"/Users/dafydd/dev/is/static/site1101342/css/ui/_oc-ship-by-seller.scss",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/header.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/partials/account/userWidget.inc",
+		"/Users/dafydd/dev/is/static/site1101342/css/partials/_user-widget.scss",
+		"/Users/dafydd/torch/install/share/lua/5.1/hdf5/config.lua",
+		"/Users/dafydd/.ssh/config",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showCheckoutStep1SinglePage.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/global/include/staticPath.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/global/include/facebookSDK.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/manageBid.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/en_US/showCheckoutStep4.vm",
+		"/Users/dafydd/dev/is/macros/site1101342/global/include/fbEvents.inc",
+		"/Users/dafydd/dev/is/macros/site1101342/global/include/headscript.inc",
+		"/Users/dafydd/Desktop/_DT/dm post crit.md",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/static/apiResp/bidhistory.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/side_module.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/footer.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/header.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/global/include/headscript.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/showCheckoutStep3.vm",
+		"/Users/dafydd/dev/is/static/site1100240/css/pages/_checkout.scss",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/showCheckoutStep4.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/orderitemview.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/showUserOrderHistory.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/showCheckoutStep2.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/storepurchase-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/storepurchase-textbody.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/shippingnotif-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/orderDisplay.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/updateUserCC.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/showerror.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/auctionwinner-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/userprivateoffer-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/userprivateoffer-textbody.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/email/userprivateoffer-subject.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/checkout/shoppingcart_footer.inc",
+		"/Users/dafydd/dev/is/static/site1100240/css/pages/_orderHistory.scss",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/addressForm.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/showCheckoutStep1MultiPage.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/breadcrumbs.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/global/templates/global_head.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/updateUser.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/checkout/shoppingcart_header.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/include/checkout/shoppingcart_item.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/global/include/pageVarMap.inc",
+		"/Users/dafydd/dev/is/static/site1100240/css/modules/_buttons.scss",
+		"/Users/dafydd/dev/is/macros/site1100240/langpack/en_US-def/account.lang",
+		"/Users/dafydd/dev/is/macros/site1100240/langpack/en_US-def/breadCrumbPageTitleList.lang",
+		"/Users/dafydd/dev/is/macros/site1100240/langpack/en_US-def/orderHistory.lang",
+		"/Users/dafydd/dev/is/static/site1100240/css/style.scss",
+		"/Users/dafydd/dev/is/static/site1100240/js/onload.js",
+		"/Users/dafydd/dev/is/macros/site1100240/global/include/listStateProvince.inc",
+		"/Users/dafydd/dev/is/static/site1100240/css/pages/_account.scss",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/account.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/global/globalConfig.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/global/include/globalVars.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/showCheckoutStep1.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/global/include/URLMap.inc",
+		"/Users/dafydd/dev/is/macros/site1100240/en_US/manageBid.vm",
+		"/Users/dafydd/dev/is/macros/site1100240/global/include/staticPath.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/email/shippingnotif-textbody.vm",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/email/shippingnotif-subject.vm",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/email/shippingnotif-htmlbody.vm",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/manageBid.vm",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/sidebar/sortBy.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/header.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/auctions/auction_bidhistory.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/index-main.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/pages/_auctionDisplayV2.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/productDisplay.vm",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/auctions/auctionListItem.inc",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/components/_prd.scss",
+		"/Users/dafydd/dev/is/macros/site1101700/global/include/globals.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/macros/items.inc",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/auctionDisplay.vm",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/account.vm",
+		"/Users/dafydd/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v1/_vars.scss",
+		"/Users/dafydd/dev/is/static/site1101700/src/js/onload.js",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/components/sidebar.inc",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/stylev2.scss",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/components/_facet-nav.scss",
+		"/Users/dafydd/dev/is/macros/site1101700/global/include/headscript.inc",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/page/_fixed-sidebar.scss",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/common/_header.scss",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/vendor/_slick-theme.scss",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/pages/_allAuctionV2.inc",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/common/_main-nav.scss",
+		"/Users/dafydd/dev/is/macros/site1101700/en_US/allAuction.vm",
+		"/Users/dafydd/.subversion/config",
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v1/components/_facet-nav.scss"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"/Users/dafydd/dev/is/macros/site1101342/en_US/email",
+			"",
+			"/Users/dafydd/dev/is/macros/site1102082/en_US/email",
+			"",
+			"-*.txt",
+			"",
+			"/Users/dafydd/dev/is/macros/site1101040/en_US/email",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"700",
+			"#header",
+			"#content",
+			"#header",
+			"header",
+			"body",
+			"blue",
+			"query",
+			"\"",
+			"$WLB_",
+			"$wlb",
+			"act_1",
+			"$rel",
+			"pageu",
+			"auction",
+			"pageu",
+			"$product.name",
+			"$pageURL)&rc=$!rc&rs=$!rs",
+			"$product.id",
+			"relType=store",
+			"$isFavorite",
+			"isFavorite",
+			"#macro",
+			"auction.product.name",
+			"$!rx",
+			"currentP",
+			" $isFavorite",
+			"<i class=\"fa fa-star",
+			"$product.getTitle($lang)",
+			"&prdName=$product.name&prdTitle=$stringview.escUrl($product.getTitle($lang))",
+			"relType=product&",
+			"watch",
+			"name)",
+			"name",
+			"currentPageURL",
+			" $isFavorite $appUser.id",
+			"auction",
+			"isFavorite",
+			"floodlight.inc",
+			"td align=\"right\"",
+			"align=\"right\"",
+			"ccExpYear",
+			"Below is your order information",
+			"$order",
+			"item",
+			"orderitem",
+			"privateoffer=",
+			"privateoffer =",
+			"privateoffer = ",
+			"Id()",
+			"max",
+			"checko",
+			"qty",
+			"up",
+			"issslrequest",
+			".thumburl",
+			"#*",
+			"shoppingCart.paymentCCId",
+			"paypal",
+			".updown",
+			"$maxQty",
+			"user-widget--is-visible",
+			"ccExpMonth",
+			"2015",
+			"dateview",
+			"dateview[.*]current",
+			"$dateview[.*]current",
+			"$dateview.*current",
+			"$dateview[.]*current",
+			"$dateview.",
+			"2015..2027",
+			"http://",
+			"user-cart-display__img",
+			"facebooksdk",
+			"btn--control",
+			"hidden",
+			"resize",
+			"th",
+			"bid-hi",
+			"':'",
+			" = ",
+			"onload",
+			"'",
+			"$aucview.",
+			"#*",
+			"sellerImgThumb",
+			"teamName",
+			"auctAttrPartnerValue",
+			"item-seller-icon",
+			"sideModuleLabel10",
+			"partner auctions",
+			"#!",
+			"partner auctions",
+			"product_to",
+			"sectionp",
+			"is on its way",
+			"2rem",
+			"li",
+			"h2",
+			"cssStyleSheet",
+			"showerror",
+			"iframe",
+			"Confirm your order",
+			"<h2>",
+			"your ",
+			"Confirm your order",
+			"Confirm",
+			"Your Cart",
+			"global",
+			"liststateprovince.inc",
+			"provinceList",
+			"                    <li>\n                        <label for=\"reg_state\"><span id=\"chkRequired\" class=\"required\">*</span> $!updateUserLabel15</label>\n                        <input type=\"hidden\" name=\"state\" value=\"$!appUser.primaryAddress.state\">\n                        <input type=\"text\" name=\"county\" value=\"$!appUser.primaryAddress.state\" id=\"reg_county\" class=\"reg_county\">\n                        <select name=\"states\" id=\"reg_state\" class=\"reg_state validate[required]\">\n                            ##<option value=\"\">Select One</option>\n                            #foreach ($stateListValue in $stateList)\n                            <option value=\"$stateListValue.shortNm\" #if ($stateListValue.shortNm == $!appUser.primaryAddress.state) selected #end>$stateListValue.dispNm</option>\n                            #end\n                        </select>\n                        <select name=\"provinces\" id=\"reg_province\" class=\"reg_province validate[required]\">\n                            ##<option value=\"\">Select One</option>\n                            #foreach ($provinceListValue in $provinceList)\n                            <option value=\"$provinceListValue.shortNm\" #if ($provinceListValue.shortNm == $!appUser.primaryAddress.state) selected #end>$provinceListValue.dispNm</option>\n                            #end\n                        </select>\n                    </li>\n",
+			"parse",
+			"countr",
+			"update",
+			"Update Profile",
+			"check",
+			"btn btn-xs",
+			"btn",
+			"button",
+			"btn ",
+			"button",
+			"1.5",
+			"<table class=\"table-base table-responsive\">",
+			"</table>\n        </div>",
+			"</table>\n          </div>",
+			"<div class=\"table-responsive\">",
+			"<table class=\"table\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"##parse( \"site$site.id/global/include/analytics.inc\" )",
+			".getThumbUrl($action.isSslRequest())",
+			".getFullUrl($action.isSslRequest())",
+			".getMediumUrl($action.isSslRequest())",
+			"$orange-new",
+			"Aeroplan Exclusives",
+			"#AeroplanExclusives",
+			"Aeroplan Exclusives Auction",
+			"An Aeroplan Exclusives",
+			"AN AEROPLAN EXCLUSIVES",
+			"an Aeroplan Exclusives",
+			"Exclusivit&eacute;s A&eacute;roplan",
+			"Exclusivités Aéroplan",
+			"#AeroplanExclusives"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1134,
+								1134
+							],
+							[
+								1138,
+								1138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2454,
+								2454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "christinbougie-refresh.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"dli",
+				"site1101342/en_US/include/macros/dlist.inc"
+			],
+			[
+				"walib",
+				"site1101342/en_US/include/macros/watchlistButton.inc"
+			],
+			[
+				"allm",
+				"site1101342/en_US/include/macros/_all-macros.inc"
+			],
+			[
+				"indfe",
+				"site1101342/en_US/include/partials/index/index__featured-items.inc"
+			],
+			[
+				"index",
+				"site1101342/en_US/index.vm"
+			],
+			[
+				"allp",
+				"site1101342/en_US/allProduct.vm"
+			],
+			[
+				"nothin",
+				"site1101342/en_US/include/partials/listings/nothingToSee.inc"
+			],
+			[
+				"auclii",
+				"site1101342/en_US/include/partials/listings/auctionListItem.inc"
+			],
+			[
+				"alla",
+				"site1101342/en_US/allAuction.vm"
+			],
+			[
+				"wat",
+				"site1101342/en_US/include/macros/watchlistButton.inc"
+			],
+			[
+				"urlma",
+				"site1101342/global/include/URLMap.inc"
+			],
+			[
+				"glob",
+				"site1101342/global/include/globals.inc"
+			],
+			[
+				"vars",
+				"site1101342/css/_vars.scss"
+			],
+			[
+				"item",
+				"site1101342/css/partials/_item-list.scss"
+			],
+			[
+				"prd",
+				"site1101342/css/partials/_prd.scss"
+			],
+			[
+				"prodis",
+				"site1101342/en_US/productDisplay.vm"
+			],
+			[
+				"proliit",
+				"site1101342/en_US/include/partials/listings/productListItem.inc"
+			],
+			[
+				"flood",
+				"site1101342/global/include/floodlight.inc"
+			],
+			[
+				"allaapi",
+				"site1101342/en_US/allAuctionAPIResp.vm"
+			],
+			[
+				"stopr",
+				"site1101342/en_US/email/storepurchase-htmlbody.vm"
+			],
+			[
+				"onlo",
+				"site1101342/js/onload.js"
+			],
+			[
+				"upducc",
+				"site1101342/en_US/updateUserCC.vm"
+			],
+			[
+				"ordis",
+				"site1101342/en_US/orderDisplay.vm"
+			],
+			[
+				"aucbihi",
+				"site1101342/en_US/include/auctions/auction_bidhistory.inc"
+			],
+			[
+				"aucdis",
+				"site1101342/en_US/auctionDisplay.vm"
+			],
+			[
+				"shocait",
+				"site1101342/en_US/include/checkout/shoppingcart_item.inc"
+			],
+			[
+				"shoch1mu",
+				"site1101342/en_US/showCheckoutStep1MultiPage.vm"
+			],
+			[
+				"shoch1",
+				"site1101342/en_US/showCheckoutStep1.vm"
+			],
+			[
+				"orditv",
+				"site1101342/en_US/include/auctions/orderitemview.inc"
+			],
+			[
+				"ordhi",
+				"site1101342/en_US/showUserOrderHistory.vm"
+			],
+			[
+				"shoch1m",
+				"site1101342/en_US/showCheckoutStep1MultiPage.vm"
+			],
+			[
+				"storep",
+				"site1101342/en_US/email/storepurchase-htmlbody.vm"
+			],
+			[
+				"shoch3",
+				"site1101342/en_US/showCheckoutStep3.vm"
+			],
+			[
+				"shoch2",
+				"site1101342/en_US/showCheckoutStep2.vm"
+			],
+			[
+				"uswi",
+				"site1101342/css/partials/_user-widget.scss"
+			],
+			[
+				"userw",
+				"site1101342/en_US/include/partials/account/userWidget.inc"
+			],
+			[
+				"updcc",
+				"site1101342/en_US/updateUserCC.vm"
+			],
+			[
+				"stat",
+				"site1101342/global/include/staticPath.inc"
+			],
+			[
+				"manbi",
+				"site1101342/en_US/manageBid.vm"
+			],
+			[
+				"shochst4",
+				"site1101342/en_US/showCheckoutStep4.vm"
+			],
+			[
+				"glohe",
+				"site1101342/global/templates/global_head.inc"
+			],
+			[
+				"heads",
+				"site1101342/global/include/headscript.inc"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"btn.c",
+				"css/partials/_btn.scss"
+			],
+			[
+				"glofo",
+				"site1100240/global/templates/global_foot.inc"
+			],
+			[
+				"side",
+				"site1100240/css/layout/_side-module.scss"
+			],
+			[
+				"aucdi",
+				"site1100240/en_US/auctionDisplay.vm"
+			],
+			[
+				"foo",
+				"site1100240/en_US/include/footer.inc"
+			],
+			[
+				"footer",
+				"site1100240/en_US/include/footer.inc"
+			],
+			[
+				"side_mo",
+				"site1100240/en_US/include/side_module.inc"
+			],
+			[
+				"shipp",
+				"site1100240/en_US/email/shippingnotif-htmlbody.vm"
+			],
+			[
+				"orderitemv",
+				"site1100240/en_US/include/orderitemview.inc"
+			],
+			[
+				"orderhi",
+				"site1100240/en_US/showUserOrderHistory.vm"
+			],
+			[
+				"shoche3",
+				"site1100240/en_US/showCheckoutStep3.vm"
+			],
+			[
+				"uspriof",
+				"site1100240/en_US/email/userprivateoffer-subject.vm"
+			],
+			[
+				"uspriva",
+				"site1100240/en_US/email/userprivateoffer-textbody.vm"
+			],
+			[
+				"userp",
+				"site1100240/en_US/email/userprivateoffer-htmlbody.vm"
+			],
+			[
+				"showerr",
+				"site1100240/en_US/include/showerror.inc"
+			],
+			[
+				"upcc",
+				"site1100240/en_US/updateUserCC.vm"
+			],
+			[
+				"shoch4",
+				"site1100240/en_US/showCheckoutStep4.vm"
+			],
+			[
+				"che",
+				"site1100240/css/pages/_checkout.scss"
+			],
+			[
+				"chescss",
+				"site1100240/css/pages/_checkout.scss"
+			],
+			[
+				"pava",
+				"site1100240/global/include/pageVarMap.inc"
+			],
+			[
+				"breadc",
+				"site1100240/en_US/include/breadcrumbs.inc"
+			],
+			[
+				"show",
+				"site1100240/en_US/include/showerror.inc"
+			],
+			[
+				"button",
+				"site1100240/css/modules/_buttons.scss"
+			],
+			[
+				"shocafo",
+				"site1100240/en_US/include/checkout/shoppingcart_footer.inc"
+			],
+			[
+				"chescs",
+				"site1100240/css/pages/_checkout.scss"
+			],
+			[
+				"shocah",
+				"site1100240/en_US/include/checkout/shoppingcart_header.inc"
+			],
+			[
+				"che1mu",
+				"site1100240/en_US/showCheckoutStep1MultiPage.vm"
+			],
+			[
+				"updus",
+				"site1100240/en_US/updateUser.vm"
+			],
+			[
+				"addre",
+				"site1100240/en_US/include/addressForm.inc"
+			],
+			[
+				"glova",
+				"site1100240/global/include/globalVars.inc"
+			],
+			[
+				"glocon",
+				"site1100240/global/globalConfig.inc"
+			],
+			[
+				"glohea",
+				"site1100240/global/templates/global_head.inc"
+			],
+			[
+				"onl",
+				"site1100240/js/onload.js"
+			],
+			[
+				"updu",
+				"site1100240/en_US/updateUser.vm"
+			],
+			[
+				"shochmu",
+				"site1100240/en_US/showCheckoutStep1MultiPage.vm"
+			],
+			[
+				"butt",
+				"site1100240/css/modules/_buttons.scss"
+			],
+			[
+				"accoscs",
+				"site1100240/css/pages/_account.scss"
+			],
+			[
+				"ordi",
+				"site1100240/en_US/orderDisplay.vm"
+			],
+			[
+				"urlm",
+				"site1100240/global/include/URLMap.inc"
+			],
+			[
+				"accoulan",
+				"site1100240/langpack/en_US-def/account.lang"
+			],
+			[
+				"accout",
+				"site1100240/en_US/account.vm"
+			],
+			[
+				"shipn",
+				"site1101700/en_US/email/shippingnotif-textbody.vm"
+			],
+			[
+				"prodi",
+				"site1101700/en_US/productDisplay.vm"
+			],
+			[
+				"aucli",
+				"site1101700/en_US/include/auctions/auctionListItem.inc"
+			],
+			[
+				"aucdi2",
+				"site1101700/en_US/include/pages/_auctionDisplayV2.inc"
+			],
+			[
+				"prdsc",
+				"site1101700/src/sass/v2/components/_prd.scss"
+			],
+			[
+				"bidhi",
+				"site1101700/en_US/include/auctions/auction_bidhistory.inc"
+			],
+			[
+				"allav2",
+				"site1101700/en_US/include/pages/_allAuctionV2.inc"
+			],
+			[
+				"var",
+				"site1101700/src/sass/v1/_vars.scss"
+			],
+			[
+				"globa",
+				"site1101700/global/include/globals.inc"
+			],
+			[
+				"mainscs",
+				"site1101700/src/sass/v2/common/_main-nav.scss"
+			],
+			[
+				"mainnavsc",
+				"site1101700/src/sass/v2/common/_main-nav.scss"
+			],
+			[
+				"styl2",
+				"site1101700/src/sass/stylev2.scss"
+			],
+			[
+				"sty",
+				"site1101700/public/css/stylev2.css"
+			],
+			[
+				"alla2",
+				"site1101700/en_US/include/pages/_allAuctionV2.inc"
+			],
+			[
+				"prdscs",
+				"site1101700/src/sass/v2/components/_prd.scss"
+			],
+			[
+				"forms",
+				"site1101700/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss"
+			],
+			[
+				"variab",
+				"site1101700/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss"
+			],
+			[
+				"scaf",
+				"site1101700/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding.scss"
+			],
+			[
+				"gloa",
+				"site1101700/global/include/globals.inc"
+			],
+			[
+				"gloh",
+				"site1101700/global/templates/global_head.inc"
+			],
+			[
+				"indem",
+				"site1101700/en_US/include/index-main.inc"
+			],
+			[
+				"sideb",
+				"site1101700/en_US/include/components/sidebar.inc"
+			],
+			[
+				"nav",
+				"site1101700/en_US/include/macros/nav.inc"
+			],
+			[
+				"hover",
+				"site1101700/src/js/lib/cdHoverSwap.js"
+			],
+			[
+				"items",
+				"site1101700/en_US/include/macros/items.inc"
+			],
+			[
+				"main-nav",
+				"site1101700/en_US/include/components/main-nav.inc"
+			],
+			[
+				"mainna",
+				"site1101700/en_US/include/components/main-nav.inc"
+			],
+			[
+				"indema",
+				"site1101700/en_US/include/index-main.inc"
+			],
+			[
+				"sort",
+				"site1101700/en_US/include/sidebar/sortBy.inc"
+			],
+			[
+				"mainn",
+				"site1101700/en_US/include/components/main-nav.inc"
+			],
+			[
+				"ga.i",
+				"site1102082/global/include/ga.inc"
+			],
+			[
+				"che4",
+				"site1102082/en_US/showCheckoutStep4.vm"
+			],
+			[
+				"ga",
+				"site1102082/global/include/ga.inc"
+			],
+			[
+				"bre",
+				"site1102082/en_US/include/breadcrumbs.inc"
+			],
+			[
+				"auth",
+				"site1102082/en_US/static/authentication.vm"
+			],
+			[
+				"bread",
+				"site1102082/en_US/include/breadcrumbs.inc"
+			],
+			[
+				"stopu",
+				"site1102082/en_US/email/storepurchase-textbody.vm"
+			],
+			[
+				"leg",
+				"site1102082/en_US/static/legalnotices.vm"
+			],
+			[
+				"headscs",
+				"site1102082/css/base/_header.scss"
+			],
+			[
+				"reg",
+				"site1102082/en_US/register.vm"
+			],
+			[
+				"upd",
+				"site1102082/en_US/updateUserCC.vm"
+			],
+			[
+				"che1",
+				"site1102082/en_US/showCheckoutStep1MultiPage.vm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lmc",
+				"~/dev/is/projects/LMC.sublime-project"
+			],
+			[
+				"mlb",
+				"~/dev/is/projects/MLB.sublime-project"
+			],
+			[
+				"wwe",
+				"~/dev/is/projects/WWE.sublime-project"
+			],
+			[
+				"jays",
+				"~/dev/is/projects/Jays Shop.sublime-project"
+			],
+			[
+				"star",
+				"~/dev/is/projects/Star Wars.sublime-project"
+			],
+			[
+				"nfl",
+				"~/dev/is/projects/NFL.sublime-project"
+			],
+			[
+				"hilt",
+				"~/dev/is/projects/hilton.sublime-project"
+			],
+			[
+				"ballp",
+				"~/dev/is/projects/MLB Ballpark.sublime-project"
+			],
+			[
+				"temp",
+				"~/dev/is/projects/Template.sublime-project"
+			],
+			[
+				"nba",
+				"~/dev/is/projects/NBA Auction.sublime-project"
+			],
+			[
+				"ihg",
+				"~/dev/is/projects/IHG.sublime-project"
+			],
+			[
+				"ubi",
+				"~/dev/is/projects/ubid.sublime-project"
+			],
+			[
+				"hil",
+				"~/dev/is/projects/hilton.sublime-project"
+			],
+			[
+				"hilton",
+				"~/dev/is/projects/hilton.sublime-project"
+			],
+			[
+				"cfl",
+				"~/dev/is/projects/CFL.sublime-project"
+			],
+			[
+				"star w",
+				"~/dev/is/projects/Star Wars.sublime-project"
+			],
+			[
+				"cbs",
+				"~/dev/is/projects/cbs.sublime-project"
+			],
+			[
+				"btc",
+				"~/dev/is/projects/MLB BTC.sublime-project"
+			],
+			[
+				"ub",
+				"~/dev/is/projects/ubid.sublime-project"
+			],
+			[
+				"",
+				"~/dev/is/projects/MLB BTC.sublime-project"
+			],
+			[
+				"ubid",
+				"~/dev/is/projects/ubid.sublime-project"
+			],
+			[
+				"ae",
+				"~/dev/is/projects/aeroplan.sublime-project"
+			],
+			[
+				"aero",
+				"~/dev/is/projects/aeroplan.sublime-project"
+			],
+			[
+				"ball",
+				"~/dev/is/projects/MLB Ballpark.sublime-project"
+			],
+			[
+				"aerop",
+				"~/dev/is/projects/aeroplan.sublime-project"
+			],
+			[
+				"templ",
+				"~/dev/is/projects/template.sublime-project"
+			],
+			[
+				"game",
+				"~/dev/is/projects/nbagameworn.sublime-project"
+			],
+			[
+				"gam",
+				"~/dev/is/projects/nbagameworn.sublime-project"
+			],
+			[
+				"nbag",
+				"~/dev/is/projects/nbagameworn.sublime-project"
+			],
+			[
+				"aer",
+				"~/dev/is/projects/aeroplan.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
