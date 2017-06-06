@@ -44,9 +44,9 @@ $(document).ready(function() {
 
 	// screen_size();
 	if ( Modernizr.mq('only all and (max-width: 960px)') ) {
-		$('#menu-mainnav').append('<li id="back-matter"><a href="#sidebar">Back&nbsp;Matter</a></li>');
+		// $('#menu-mainnav').append('<li id="back-matter"><a href="#sidebar">Back&nbsp;Matter</a></li>');
 	} else {
-		$('#back-matter').remove();
+		// $('#back-matter').remove();
 	}
 
 	// $('#access').hide();

@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6, p, li {
   font-size: .9em;
   margin: 0;
   padding: 0; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 870px) {
     h1, h2, h3, h4, h5, h6, p, li {
       font-size: 1em; } }
 
@@ -442,7 +442,6 @@ body {
   /*	background-color: #F7F3E8;*/ }
 
 #content, #header, body > footer {
-  max-width: 1200px;
   margin: 0 auto; }
 
 #content {
@@ -998,20 +997,23 @@ article.page .alignleft {
   position: absolute;
   right: 0;
   width: 100%;
-  max-width: 40rem;
   height: 0;
   max-height: 0;
   overflow: hidden;
-  background: rgba(11, 169, 207, 0.9); }
+  background: rgba(255, 255, 255, 0.9); }
   #access.access-open {
     max-height: none;
     height: auto; }
   #access a {
-    color: white;
-    font-size: 1.1rem;
-    display: block;
-    line-height: 2;
+    color: #0b9dc0;
+    font-size: .875rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: .2em;
     padding: 0 1rem; }
+    @media screen and (min-width: 640px) {
+      #access a {
+        padding: 0 2rem; } }
     #access a#skip {
       display: none; }
     #access a:hover {
@@ -1019,7 +1021,10 @@ article.page .alignleft {
 
 #menu-mainnav li {
   display: block;
-  line-height: 1.5; }
+  line-height: 2.5; }
+  @media screen and (min-width: 870px) {
+    #menu-mainnav li {
+      line-height: 1.5; } }
 
 #access .xoxo {
   float: none;
@@ -1030,19 +1035,23 @@ article.page .alignleft {
   position: absolute;
   right: 1rem;
   top: .95rem;
+  margin-right: 1rem;
   font-size: 1rem;
   width: 28px;
   height: 20px;
   text-align: center; }
   #menulink .hamburger-bar {
     width: 100%;
-    height: 4px;
-    background: white;
+    height: 3px;
+    background: #0b9dc0;
     display: block;
     margin-bottom: 4px; }
 
 #menulink.show {
   color: #f2583e; }
+
+#back-matter {
+  display: none; }
 
 #header {
   background: none;
@@ -1050,17 +1059,17 @@ article.page .alignleft {
   margin-bottom: 1em;
   max-width: none;
   background: rgba(198, 121, 188, 0.9);
-  background: rgba(11, 157, 192, 0.9); }
+  background: rgba(11, 157, 192, 0.9);
+  background: white; }
   #header header[role="banner"] {
     display: block;
     padding: 1rem 1rem .7rem;
-    padding: 1rem 1rem .7rem;
-    margin: 0 auto;
-    max-width: 1200px; }
+    margin: 0 auto; }
     @media screen and (min-width: 640px) {
       #header header[role="banner"] {
-        padding: 1rem 2rem .7rem; } }
+        padding: 1rem 0 .7rem 2rem; } }
     #header header[role="banner"] h1 {
+      display: inline-block;
       position: relative;
       margin: 0;
       padding: 0;
@@ -1070,13 +1079,50 @@ article.page .alignleft {
       line-height: 1;
       font-size: 1rem; }
       #header header[role="banner"] h1 img {
-        max-width: 300px;
+        max-width: 250px;
         width: 75%; }
-      @media screen and (min-width: 768px) {
+        @media screen and (min-width: 870px) {
+          #header header[role="banner"] h1 img {
+            width: auto; } }
+      @media screen and (min-width: 870px) {
         #header header[role="banner"] h1 {
           font-size: 1.5rem; } }
       #header header[role="banner"] h1 a {
         color: white; }
+
+@media screen and (min-width: 870px) {
+  #header {
+    height: 5rem; }
+  #header header[role='banner'] {
+    display: inline-block;
+    height: 5rem;
+    line-height: 5rem;
+    padding: 0 0 0 2rem; }
+  #menulink {
+    display: none; }
+  #access {
+    float: right;
+    position: relative;
+    width: auto;
+    height: 5rem;
+    line-height: 5rem;
+    max-height: none;
+    max-width: none;
+    background: transparent;
+    margin-right: 1rem; }
+    #access li {
+      display: inline-block; }
+      #access li a {
+        color: #0b9dc0;
+        font-size: .75rem;
+        padding: 0 .5rem;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: .2em; } }
+      @media screen and (min-width: 870px) and (min-width: 1000px) {
+        #access li a {
+          font-size: .875rem;
+          padding: 0 1rem; } }
 
 /*
 @media only screen and (max-width: 480px) {
@@ -1117,35 +1163,60 @@ article.page .alignleft {
   background: url(img/bg-splash.jpg) no-repeat bottom right;
   background-size: cover; }
   .page-landing #content {
-    border-bottom: none; }
+    border-bottom: none;
+    height: calc(100vh - 7rem);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    width: 100%; }
+    @media screen and (min-width: 870px) {
+      .page-landing #content {
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 7rem;
+        bottom: 0;
+        padding: 0; } }
   .page-landing #content-main {
     font-size: 1.25rem;
     line-height: 1;
     padding: .5rem;
     background: #a09fa0;
-    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(109, 220, 247, 0.3);
     color: #0b9dc0;
+    width: 100%;
     max-width: 30rem;
-    width: auto;
-    margin: 1rem; }
+    margin: 0 auto; }
     .page-landing #content-main img {
       width: 300px;
       max-width: 100%; }
-    @media screen and (min-width: 640px) {
+    @media screen and (min-width: 870px) {
       .page-landing #content-main {
-        margin: 2rem; } }
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        margin: 4rem; } }
+    @media screen and (min-width: 1000px) {
+      .page-landing #content-main {
+        max-width: 40rem; } }
     .page-landing #content-main article.page {
       text-align: center;
       margin: 1rem 0; }
     .page-landing #content-main .cta {
       text-align: center;
-      font-size: .95rem;
+      font-size: .875rem;
       line-height: 2;
       margin: 2rem 0 1rem; }
       .page-landing #content-main .cta a {
         color: white;
         background: #0b9dc0;
-        padding: .7em 2em .5em; }
+        padding: .7em 2em;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: .2em; }
 
 /* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.

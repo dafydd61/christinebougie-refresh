@@ -51,14 +51,14 @@
 	<?php if(is_page()) { $page_slug = 'page-'.$post->post_name; } ?>
 	<body <?php body_class($page_slug); ?>>
 		<div id="header">
+			<a id="menulink" href="#">
+				<span class="sr-only">MENU</span>
+				<div class="hamburger-bar"></div>
+				<div class="hamburger-bar"></div>
+				<div class="hamburger-bar"></div>
+			</a>
 			<header role="banner">
-				<h1><a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img width="600" height="57" src="<?php bloginfo( 'stylesheet_directory' ); ?>/img/cb-sig.png" alt=""><?php //bloginfo( 'name' ); ?></a></h1>
-				<a id="menulink" href="#">
-					<span class="sr-only">MENU</span>
-					<div class="hamburger-bar"></div>
-					<div class="hamburger-bar"></div>
-					<div class="hamburger-bar"></div>
-				</a>
+				<h1><a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img width="600" height="57" src="<?php bloginfo( 'stylesheet_directory' ); ?>/img/cb-sig-b.png" alt=""><?php //bloginfo( 'name' ); ?></a></h1>
 			</header>
 			<nav id="access" role="navigation">
 			  <?php /*  Allow screen readers / text browsers to skip the navigation menu and get right to the good stuff */ ?>

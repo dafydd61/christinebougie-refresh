@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"dib",
+				"d:ib\tdisplay:inline-block"
+			],
+			[
 				"font",
 				"font--headings"
 			],
@@ -187,7 +191,7 @@
 			"file": "style.scss",
 			"settings":
 			{
-				"buffer_size": 29624,
+				"buffer_size": 30501,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -196,7 +200,7 @@
 			"file": "header.php",
 			"settings":
 			{
-				"buffer_size": 3735,
+				"buffer_size": 3731,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -332,6 +336,9 @@
 	],
 	"file_history":
 	[
+		"/Users/dafydd/dev/christinebougie_com/public/wp-content/themes/christinebougie-refresh/README.md",
+		"/Users/dafydd/dev/christinebougie_com/.gitignore",
+		"/Users/dafydd/dev/christinebougie_com/.giti",
 		"/Users/dafydd/dev/christinebougie_com/public/wp-content/themes/christinebougie-refresh/header.php",
 		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/macros/watchlistButton.inc",
 		"/Users/dafydd/dev/is/macros/site1101342/en_US/include/macros/_all-macros.inc",
@@ -456,10 +463,7 @@
 		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/common/_header.scss",
 		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/vendor/_slick-theme.scss",
 		"/Users/dafydd/dev/is/macros/site1101700/en_US/include/pages/_allAuctionV2.inc",
-		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/common/_main-nav.scss",
-		"/Users/dafydd/dev/is/macros/site1101700/en_US/allAuction.vm",
-		"/Users/dafydd/.subversion/config",
-		"/Users/dafydd/dev/is/static/site1101700/src/sass/v1/components/_facet-nav.scss"
+		"/Users/dafydd/dev/is/static/site1101700/src/sass/v2/common/_main-nav.scss"
 	],
 	"find":
 	{
@@ -486,6 +490,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"header",
 			"700",
 			"#header",
 			"#content",
@@ -612,8 +617,7 @@
 			"<table class=\"table-base table-responsive\">",
 			"</table>\n        </div>",
 			"</table>\n          </div>",
-			"<div class=\"table-responsive\">",
-			"<table class=\"table\">"
+			"<div class=\"table-responsive\">"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -654,19 +658,24 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 29624,
+						"buffer_size": 30501,
 						"regions":
 						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
 						},
 						"selection":
 						[
 							[
-								1134,
-								1134
-							],
-							[
-								1138,
-								1138
+								26112,
+								26112
 							]
 						],
 						"settings":
@@ -675,7 +684,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 254.0,
+						"translation.y": 31086.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -687,15 +696,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3735,
+						"buffer_size": 3731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2454,
-								2454
+								2270,
+								2270
 							]
 						],
 						"settings":
@@ -704,7 +713,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 616.0,
+						"translation.y": 944.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -765,6 +774,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"read",
+				"README.md"
+			],
 			[
 				"header",
 				"header.php"
@@ -1272,10 +1285,6 @@
 			[
 				"upd",
 				"site1102082/en_US/updateUserCC.vm"
-			],
-			[
-				"che1",
-				"site1102082/en_US/showCheckoutStep1MultiPage.vm"
 			]
 		],
 		"width": 0.0
@@ -1283,12 +1292,16 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "lmc",
 		"selected_items":
 		[
 			[
 				"lmc",
 				"~/dev/is/projects/LMC.sublime-project"
+			],
+			[
+				"jays",
+				"~/dev/is/projects/Jays Shop.sublime-project"
 			],
 			[
 				"mlb",
@@ -1297,10 +1310,6 @@
 			[
 				"wwe",
 				"~/dev/is/projects/WWE.sublime-project"
-			],
-			[
-				"jays",
-				"~/dev/is/projects/Jays Shop.sublime-project"
 			],
 			[
 				"star",
